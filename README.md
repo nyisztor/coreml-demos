@@ -20,4 +20,5 @@ Find my courses on **[Udemy](https://www.udemy.com/user/karolynyisztor/)**,
 
 ---
 
-![Course Cover](https://www.leakka.com/wp-content/uploads/2018/10/ml-cover-420w-1.png)
+![Course Cover](https://leakka.com/wp-content/uploads/2022/12/coreml.png)
+
