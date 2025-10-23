@@ -6,11 +6,11 @@ Learn how to build intelligent iOS apps with **Core ML**, **Create ML**, and **S
 
 The updated course features modern **Swift 6** code, **SwiftUI-based interfaces**, and refreshed **Create ML** demos that reflect Apple’s latest tools and APIs.
 
-### 📘 Learn More
+### Learn More
 - The book is available on **[Amazon](https://www.amazon.com/dp/B07F2NYDTH)**  
 - The companion video course is on **[Udemy](https://www.udemy.com/machine-learning-with-core-ml-2-and-swift/?couponCode=GITHUB)**
 
-### 🔗 Connect
+### Connect
 Check out my **[YouTube channel](https://www.youtube.com/c/swiftprogrammingtutorials)**  
 Find my courses on **[Udemy](https://www.udemy.com/user/karolynyisztor/)**,  
 **[LinkedIn Learning](https://www.linkedin.com/learning/instructors/karoly-nyisztor?u=2125562)**, and
